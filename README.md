@@ -3,3 +3,4 @@ tekst
 oshte tekst
 daje oshte tekst
 dai mi toq head
+kuv kor?
